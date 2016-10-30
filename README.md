@@ -1,5 +1,5 @@
-# Our-project for mental awerness
-here is a list of websites to scearch up on topic-
+# Our-project for mental awareness
+here is a list of websites to search up on topic-
 websites:
 https://www.mentalhealth.gov/basics/what-is-mental-health/
 
