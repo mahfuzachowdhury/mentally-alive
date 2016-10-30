@@ -4,3 +4,14 @@ list-style-type: none;}
 float: left; }
 .menu li a {
 padding: 14px 14px }
+
+
+h1{
+text-align: center; 
+text-decoration: underline;
+font-size: 50px;
+}
+.bio{
+border:20px; 
+border-color: 67943;
+}
