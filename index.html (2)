@@ -1,0 +1,19 @@
+<html><head> </head>
+<body style= "background-color:lightgreen">
+
+<div style= "color:white";"font-family: verdana, sans-serif">
+<ul> Menu
+	<li> <a href="about.html">About</a> </li>
+	<li> <a href="archive.html">Archive</a> </li>
+	<li> <a href="organizations.html">Organizations</a> </li>
+</ul>
+<h1> <center> Don't Judge a book by its cover.</center> </h1>
+<h2> <center> Homepage </center> </h2>
+<body text="white"> <font size="18"> <center> A site to support awareness of mental health. </center> </font></body> 
+
+</div>
+
+
+
+
+</body></html>
