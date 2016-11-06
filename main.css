@@ -5,13 +5,45 @@ float: left; }
 .menu li a {
 padding: 14px 14px }
 
+.h1{
+	text-align: center; 
+	text-decoration: underline;
+	font-size: 50px;
+}
 
-h1{
-text-align: center; 
-text-decoration: underline;
-font-size: 50px;
+.h3{
+	font-size: 70px;
 }
-.bio{
-border:20px; 
-border-color: 679430;
+.Bio{
+	width:300px;
+	padding: 25px;
+	margin: 25px;
+	border-style: dotted;
+	border-color: #463F3A;
+	float: left;
+	
 }
+
+.Bio1{
+	width:300px;
+	padding: 25px;
+	margin: 25px;
+	border-style: dotted;
+	border-color: #463F3A;
+	float: left;
+}
+
+.Bio2{
+	width:300px;
+	padding: 25px;
+	margin: 25px;
+	border-style: dotted;
+	border-color: #463F3A;
+	float: left;
+}
+
+.container{
+	background-color: #19381F;
+	margin: auto;
+}
+	
