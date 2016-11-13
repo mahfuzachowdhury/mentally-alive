@@ -1,9 +1,40 @@
-.menu ul {
-list-style-type: none;}
-.menu li { 
-float: left; }
-.menu li a {
-padding: 14px 14px }
+body {
+	background: url("prettyclouds.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size:cover;
+	padding-top:100px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navbar li a:hover {
+    background-color: #111;
+}
+
+.navbar .active {
+    background-color: #4CAF50;
+}
 
 .h1{
 	text-align: center; 
@@ -21,7 +52,7 @@ padding: 14px 14px }
 	border-style: dotted;
 	border-color: #463F3A;
 	float: left;
-	
+	color: white;
 }
 
 .Bio1{
@@ -31,6 +62,7 @@ padding: 14px 14px }
 	border-style: dotted;
 	border-color: #463F3A;
 	float: left;
+color: white;
 }
 
 .Bio2{
@@ -40,10 +72,23 @@ padding: 14px 14px }
 	border-style: dotted;
 	border-color: #463F3A;
 	float: left;
+color: white;
 }
 
 .container{
-	background-color: #19381F;
+	background-color: #5B1865;
 	margin: auto;
+}
+
+.content{
+	width: 70%;
+	background-color: rgba(53,71,125,.6);
+	color:white;
+	margin-top:10%;
+	    margin-left: 15%;
+}
+.FAQ{
+	width:800px;
+	margin:0 auto;
 }
 	
